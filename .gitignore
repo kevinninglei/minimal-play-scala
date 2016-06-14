@@ -1,0 +1,8 @@
+.ensime*
+logs/
+project/project/
+project/target/
+*.swp
+tags
+target/
+*.un~

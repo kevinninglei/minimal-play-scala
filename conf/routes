@@ -1,1 +1,2 @@
+GET     /                                   controllers.Application.index(name: String ?= "World")
 GET     /_internal_/healthcheck             controllers.Healthcheck.check

@@ -10,4 +10,5 @@ class Application extends Controller {
   def index(name: String) = Action {
     Ok(views.html.hello(name))
   }
+
 }
